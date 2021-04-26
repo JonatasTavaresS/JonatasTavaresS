@@ -6,7 +6,7 @@
   <a href="https://open.spotify.com/user/21tqplxki536cxzkgffxqxsma"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" title="Jônatas's Spotify" alt="Spotify Logo" /></a>
 </p>
 
-Hi, I'm Jônatas Tavares, a computer student at the Federal Institute of Paraíba. In 2018 I started programming in Python 3 and, in the future, I would like to become a teacher.
+Hi, I'm Jônatas Tavares, a computer student at the Federal Institute of Paraíba. In 2018, I started programming in Python 3 and, in the future, I would like to become a teacher.
 
 - 🌱 I’m currently learning about **Solidity** and **Blockchain**
 - 📫 How to reach me: [jonatast360@gmail.com](mailto:jonatastavares.py)
@@ -17,7 +17,7 @@ Hi, I'm Jônatas Tavares, a computer student at the Federal Institute of Paraíb
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Federal Institute of Paraíba - Campina Grande, Brazil
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavaresJonatas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jônatas's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TavaresJonatas&layout=compact&theme=dark)
 
 <!--
 ### Hi there 👋
