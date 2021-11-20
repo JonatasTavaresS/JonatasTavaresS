@@ -2,17 +2,17 @@
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/jônatastavares"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" title="Jônatas's LinkedIn" alt="LinkedIn Badge" /></a>
-  <a href="mailto:jonatas.tavares@academico.ifpb.edu.br"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Jônatas's E-mail" alt="E-mail Badge" /></a>
+  <a href="mailto:jonatas.santos@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Jônatas's E-mail" alt="E-mail Badge" /></a>
   <a href="https://www.instagram.com/jtavares.py"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Jônatas's Instagram" alt="Instagram Badge" /></a>
   <a href="https://open.spotify.com/user/21tqplxki536cxzkgffxqxsma"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" title="Jônatas's Spotify" alt="Spotify Badge" /></a>
 </p>
 
 <p align="justify">
-  Hi, I am Jônatas Tavares, a Computer Technician from the Federal Institute of Education, Science and Technology of Paraíba. In 2018 I started to learn programming, Python 3 was my first programming language. I liked this, so I'm going to start a graduation in Computer Science at the Federal University of Campina Grande. In the future, I would like to become a teacher.
+  Hi, I am Jônatas Tavares. Currently, I am a Computer Science Student at the Federal University of Campina Grande. In addition, in 2021, I became a Computer Technician at the Federal Institute of Education, Science and Technology of Paraíba. In 2018, I started learning programming — Python 3 was my first programming language — and I haven't stopped learning since. I liked this and, in the future, I would like to become a professor.
 </p>
 
 - 🌱 I’m currently learning about **Solidity** and **Blockchain**
-- 📫 How to reach me: [jonatas.tavares@academico.ifpb.edu.br](mailto:jonatas.tavares@academico.ifpb.edu.br)
+- 📫 How to reach me: [jonatas.santos@ccc.ufcg.edu.br](mailto:jonatas.santos@ccc.ufcg.edu.br)
 - 📄 Know about my experiences on [Lattes](http://lattes.cnpq.br/7504155103635847)
 - 😄 Pronouns: he/him
 
@@ -24,8 +24,11 @@
   <summary>📃 Resume</summary>
   
   ## 🏫 Education
+  - 📚 **Computer Science** (2021 - Present)\
+     📍 **Federal University of Campina Grande** - Campina Grande, Paraíba, Brazil
+  
   - 📚 **Computer Technician** (2018 - 2021)\
-     📍 **Federal Institute of Paraíba** - Campina Grande, Brazil
+     📍 **Federal Institute of Paraíba** - Campina Grande, Paraíba, Brazil
 </details>
 
 <!--
