@@ -1,10 +1,12 @@
+<samp>
+  
 ### Hi there, I'm Jônatas! 👋
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/jônatastavares"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" title="Jônatas's LinkedIn" alt="LinkedIn Badge" /></a>
-  <a href="mailto:jonatas.santos@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Jônatas's E-mail" alt="E-mail Badge" /></a>
-  <a href="https://www.instagram.com/jtavares.py"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Jônatas's Instagram" alt="Instagram Badge" /></a>
-  <a href="https://open.spotify.com/user/21tqplxki536cxzkgffxqxsma"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" title="Jônatas's Spotify" alt="Spotify Badge" /></a>
+  <a href="https://www.linkedin.com/in/jonatastavaress"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" title="Jônatas's LinkedIn" alt="LinkedIn Badge" /></a>
+  <a href="mailto:jonatas.santos@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Jônatas's E-mail" alt="E-mail Badge" /></a>
+  <a href="https://www.instagram.com/jonatas.tavaress"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Jônatas's Instagram" alt="Instagram Badge" /></a>
+  <a href="https://open.spotify.com/user/21tqplxki536cxzkgffxqxsma"><img src="https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=white" title="Jônatas's Spotify" alt="Spotify Badge" /></a>
 </p>
 
 <p align="justify">
@@ -17,7 +19,7 @@
 - 😄 Pronouns: he/him
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TavaresJonatas&layout=compact&langs_count=8&hide=Blade,Shell&theme=dark" title="Jônatas's Top Langs" alt="Jônatas's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasTavaresS&layout=compact&langs_count=8&hide=Blade,Shell&theme=midnight-purple" title="Jônatas's Top Langs" alt="Jônatas's Top Langs" />
 </p>
 
 <details>
@@ -30,7 +32,7 @@
   - 📚 **Computer Technician** (2018 - 2021)\
      📍 **Federal Institute of Paraíba** - Campina Grande, Paraíba, Brazil
 </details>
-
+</samp>
 <!--
 ### Hi there 👋
 
